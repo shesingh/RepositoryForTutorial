@@ -1,3 +1,1 @@
-My change done - Change 1
-
-My change done - Change 2 - After new branch creation
+Change m1 - Master commit
