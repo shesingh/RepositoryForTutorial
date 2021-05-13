@@ -1,1 +1,2 @@
 featureMerge change commit bfm1
+featureMerge change commit bfm2
